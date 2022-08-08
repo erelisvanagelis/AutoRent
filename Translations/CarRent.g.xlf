@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CarRent">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 62134665 - Field 1203505107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Mark Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Auto Mark Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 551644549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Model Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Auto Model Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 21396859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insurance Valid Until</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Insurance End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 1320544682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Location Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 1910326603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacture Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Manufacture Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 3743410908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rent Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Rent Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 1604499677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rent Service Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Rent Service Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 3581491318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical Examination Valid Until</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field TE End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 62134665 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1312696120 - Field 4097338916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Damage - Field Auto No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1312696120 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Damage - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1312696120 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Damage - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1312696120 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Damage - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1312696120 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Damage - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 846187966 - Field 1511133589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Mark - Field Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 846187966 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Mark - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1025893260 - Field 1203505107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Mark Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Model - Field Auto Mark Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1025893260 - Field 1511133589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Model - Field Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1025893260 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Model - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3657041923 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Damage - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3657041923 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Damage - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3657041923 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Damage - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3657041923 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Damage - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 4097338916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Auto No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 4190130733 - Method 2126772001 - NamedType 2991058632" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%2) is invalid customer due to: %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Customer No. - Method OnValidate - NamedType CustomerError</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 3103321663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Licence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Driver Licence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 2970153629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Reservation End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 2970153629 - Method 2126772001 - NamedType 1338891784" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%2) is invalid, date is not reserved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Reservation End Date - Method OnValidate - NamedType DateError</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 2801861328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Reservation Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 2801861328 - Method 2126772001 - NamedType 1338891784" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%2) is invalid, date is not reserved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Reservation Start Date - Method OnValidate - NamedType DateError</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498798991 - Field 3996842083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Header - Field Total Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 2532741011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ammount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Ammount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 1060374268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initial Line"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Initial Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 3502818357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1667949960 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Rent Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Method 1503034225 - NamedType 1338891784" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%3) must be earlier than %2 (%4)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Method CheckDatesOrder - NamedType DateError</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Method 1690332582 - NamedType 1338891784" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid reservation date - car is in use from %1 to %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Method CheckIntervalOverlap - NamedType DateError</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Field 4097338916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Field Auto No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Field 1215258291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Field Custormer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Field 3209118410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation End DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Field Reservation End DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2060475449 - Field 1108814867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Start DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Reservation - Field Reservation Start DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1385460532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1385460532 - Field 626128383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Nos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Setup - Field Auto Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1385460532 - Field 1320544682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Setup - Field Location Code. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1385460532 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1385460532 - Field 1041589205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rent Card Nos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Auto Setup - Field Rent Card Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 4097338916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Auto No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 3103321663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Licence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Driver Licence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 2970153629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Reservation End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 2801861328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Reservation Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451781913 - Field 3996842083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Header - Field Total Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 2532741011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ammount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Ammount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 3502818357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1022892978 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Finished Auto Rent Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2667558485 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Card - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2667558485 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Reservations List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Card - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2673249407 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Reservations List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto List - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2847479966 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Model List - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 801713596 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Released List - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Rent Driver Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - NamedType 992573177" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must add a description to the item before you can import a picture.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - NamedType MustSpecifyDescriptionErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - NamedType 464428880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a picture to upload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - NamedType SelectPictureTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - Control 3103321663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the picture that has been inserted for the item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - Control Driver Licence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1690891884 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Driver Picture - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3706579179 - Control 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Lisence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header Card - Control Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3706579179 - Control 3901637103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Lisence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header Card - Control Driver Lisence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3706579179 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header Card - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3706579179 - Action 3223440110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Auto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header Card - Action Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2435938969 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2435938969 - Action 3223440110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Auto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Header List - Action Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3085668858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Rent Line List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 631863727 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Go To Valid Reservations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Reservation List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1385460532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1385460532 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Auto Setup - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4043251461 - Control 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Lisence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finished Auto Rent Header Card - Control Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2680133328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finished Auto Rent Line List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 131331672 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Damage Type - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 131331672 - EnumValue 79792061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revelant</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Damage Type - EnumValue Revelant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1764756040 - EnumValue 3276313895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Rent Line Type - EnumValue Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1764756040 - EnumValue 348912950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Rent Line Type - EnumValue Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 445533818 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Rent Status Type - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 445533818 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Auto Rent Status Type - EnumValue Released - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
