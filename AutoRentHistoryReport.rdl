@@ -11,6 +11,46 @@
       <rd:DataSourceID>40e5985d-eea4-4eb9-9d40-495819b5225c</rd:DataSourceID>
     </DataSource>
   </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+      <Fields>
+        <Field Name="Reservation_Start_Date">
+          <DataField>Reservation_Start_Date</DataField>
+        </Field>
+        <Field Name="Reservation_End_Date">
+          <DataField>Reservation_End_Date</DataField>
+        </Field>
+        <Field Name="Total_Cost">
+          <DataField>Total_Cost</DataField>
+        </Field>
+        <Field Name="Total_CostFormat">
+          <DataField>Total_CostFormat</DataField>
+        </Field>
+        <Field Name="Name">
+          <DataField>Name</DataField>
+        </Field>
+        <Field Name="No_">
+          <DataField>No_</DataField>
+        </Field>
+        <Field Name="Auto_Mark_Code_">
+          <DataField>Auto_Mark_Code_</DataField>
+        </Field>
+        <Field Name="Auto_Model_Code_">
+          <DataField>Auto_Model_Code_</DataField>
+        </Field>
+        <Field Name="TotalRentSum">
+          <DataField>TotalRentSum</DataField>
+        </Field>
+        <Field Name="TotalRentSumFormat">
+          <DataField>TotalRentSumFormat</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
   <ReportSections>
     <ReportSection>
       <Body>
@@ -650,6 +690,13 @@
                                     <Color>#333333</Color>
                                   </Style>
                                 </TextRun>
+                                <TextRun>
+                                  <Value>g</Value>
+                                  <Style>
+                                    <FontWeight>Normal</FontWeight>
+                                    <Color>#333333</Color>
+                                  </Style>
+                                </TextRun>
                               </TextRuns>
                               <Style />
                             </Paragraph>
@@ -784,6 +831,12 @@
       </Page>
     </ReportSection>
   </ReportSections>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
   <Code>Public Function BlankZero(ByVal Value As Decimal)
     if Value = 0 then
         Return ""
@@ -823,44 +876,4 @@ End Function
   <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
   <rd:ReportUnitType>Cm</rd:ReportUnitType>
   <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
-  <DataSets>
-    <DataSet Name="DataSet_Result">
-      <Fields>
-        <Field Name="No_">
-          <DataField>No_</DataField>
-        </Field>
-        <Field Name="Auto_Mark_Code_">
-          <DataField>Auto_Mark_Code_</DataField>
-        </Field>
-        <Field Name="Auto_Model_Code_">
-          <DataField>Auto_Model_Code_</DataField>
-        </Field>
-        <Field Name="TotalRentSum">
-          <DataField>TotalRentSum</DataField>
-        </Field>
-        <Field Name="TotalRentSumFormat">
-          <DataField>TotalRentSumFormat</DataField>
-        </Field>
-        <Field Name="Reservation_Start_Date">
-          <DataField>Reservation_Start_Date</DataField>
-        </Field>
-        <Field Name="Reservation_End_Date">
-          <DataField>Reservation_End_Date</DataField>
-        </Field>
-        <Field Name="Total_Cost">
-          <DataField>Total_Cost</DataField>
-        </Field>
-        <Field Name="Total_CostFormat">
-          <DataField>Total_CostFormat</DataField>
-        </Field>
-        <Field Name="Name">
-          <DataField>Name</DataField>
-        </Field>
-      </Fields>
-      <Query>
-        <DataSourceName>DataSource</DataSourceName>
-        <CommandText />
-      </Query>
-    </DataSet>
-  </DataSets>
 </Report>
