@@ -26,7 +26,7 @@ table 50112 "Auto Model"
 
     keys
     {
-        key(Key1; "Code.", "Auto Mark Code.")
+        key(Key1;"Auto Mark Code.", "Code.")
         {
             Clustered = true;
         }

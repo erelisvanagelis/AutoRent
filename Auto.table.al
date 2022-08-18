@@ -27,7 +27,7 @@ table 50110 "Auto"
         {
             Caption = 'Auto Model Code.';
             DataClassification = CustomerContent;
-            TableRelation = "Auto Model" where("Auto Mark Code." = field("Auto Mark Code."));
+            TableRelation = "Auto Model"."Code." where("Auto Mark Code." = field("Auto Mark Code."));
         }
 
         field(40; "Manufacture Date"; Date)
@@ -75,7 +75,7 @@ table 50110 "Auto"
 
     keys
     {
-        key(Key1; "No.", "Auto Mark Code.", "Auto Model Code.")
+        key(Key1; "No.")
         {
             Clustered = true;
         }

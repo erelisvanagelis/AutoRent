@@ -181,8 +181,7 @@ table 50120 "Auto Rent Header"
         ResourceRec: Record Resource;
     begin
         AutoRentLine.SetRange("Document No.", "No.");
-        if AutoRentLine.Find() then exit;
-        // AutoRentLine.
+        if AutoRentLine.IsEmpty() then exit;
 
         AutoRec.SetRange("No.", "Auto No.");
         AutoRec.FindFirst();
